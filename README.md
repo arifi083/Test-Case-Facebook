@@ -35,7 +35,7 @@
 - verify registratin using a very large [more than 120]
 - verify leaving the gender scenario empty
 
-## login Test Scenarios:
+## Login Test Scenarios:
 
 - login using valid email and valid password
 - login using valid phone number and valid password [with country code +20]
