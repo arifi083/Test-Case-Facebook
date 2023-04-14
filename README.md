@@ -52,3 +52,30 @@
 - verify login using invalid password
 - verify login 10 tiems using invalid password.
 - verify login using and old password.
+- Check the login functionality with an invalid email id and valid password.
+- Check the login functionality with an invalid email id and invalid password.
+- Check the login functionality with a valid email id and a blank password.
+- Check the login functionality with an invalid phone number and valid password.
+- Check the login functionality with a blank phone number and valid password.
+- Check the length of the email address and password field.
+- Check the error message displayed when any field is left blank.
+- Check the Tab key functionality on the Login page.
+- Check the remember me checkbox functionality
+- Check if the welcome message is displaying after successfully login into the application.
+- Check the Forgotten Password functionality.
+- Check whether the password text format is encrypted or not.
+- Check if the correct error message is displing for the invalid inputs.
+- Check if the layout of the login is as per the specification.
+- Check if the placeholders are displaying properly or not.
+- Check if the * is displaying, which are mandatory fields.
+- Check is the checkbox, radio button, and text fields are as per the specification.
+- Check if the login page is responsive or not.
+- Check if the SSL certificate is implemented or not.
+- Check on click of the back button of the browser; the user should be logged out of the application.
+- Check whether a user can log in directly by entering the URL in the browser.
+- Check the login session timeout functionality.
+- Check whether the password field is encrypted or not.
+- Verify that when user login in different device with the same email address and password.
+- Check that once a user logged in, clicking the back button doesn’t log out the user. 
+- Check if SQL Injection attacks on the login page. The application should not be vulnerable to SQL injection attacks. 
+- Check that XSS vulnerability should not work. 
